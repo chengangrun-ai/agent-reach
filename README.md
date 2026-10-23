@@ -45,7 +45,8 @@ cp -R SKILL.md README.md requirements.txt scripts references \
 ## Usage
 
 ```bash
-# 主命令见 SKILL.md
+mcporter call 'exa.web_search_exa(query: "query", numResults: 5)'
+twitter search "query" -n 10
 ```
 
 ## Architecture
